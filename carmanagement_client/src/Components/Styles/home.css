@@ -1,0 +1,20 @@
+.home-component .home-header {
+    background-color: #147bea;
+}
+.home-component .home-motivation {
+    color: #e4eade;
+}
+.home-component .car-information-section {
+    padding-top: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.home-component .car-image {
+    height: 350px;
+}
+.home-component .heading-title {
+    padding-top: 80px;
+    text-decoration-line: underline;
+    text-decoration-thickness: 7px;
+    text-decoration-color: #147be9;
+}

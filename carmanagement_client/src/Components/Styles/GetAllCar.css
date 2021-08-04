@@ -1,0 +1,17 @@
+.card-car-div{
+    margin: 30px;
+    width: 300px;
+  }
+.linkelement:hover{
+  text-decoration: none;
+}
+.showroomcarinfo{
+  margin-left: 0px !important;
+}
+.showroomcarbodyinfo{
+  margin-left: 0px !important;
+}
+img{
+  height: 200px;
+
+}
